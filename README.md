@@ -68,6 +68,28 @@ A console-based application developed using Java and JDBC for managing movie tic
 - Performs CRUD operations  
 
 ---
+## 📸 Project Highlights
+
+Console-based user-friendly interaction
+Role-based access (Admin & Customer)
+Real-time database operations using JDBC
+Clean and modular Java code structure
+
+---
+
+## 🚀 Future Enhancements
+
+Online payment integration
+Seat selection system
+Email/SMS ticket confirmation
+
+---
+
+## 👩‍💻 Author
+
+# Mohanapriya Sivalingam
+
+---
 
 ## ▶️ How to Run
 
