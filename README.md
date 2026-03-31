@@ -93,14 +93,12 @@ All database tables are available in the SQL file:
 ### ▶️ How to Import
 
 1. Open MySQL
-2. Run the SQL file
+2. Run the SQL file:
    
 ```bash
 source movieticket.sql;
-
+```
 ---
-------
-
 
 ## 👩‍💻 Author
 
