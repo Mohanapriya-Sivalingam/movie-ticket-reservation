@@ -5,20 +5,46 @@ A console-based application developed using Java and JDBC for managing movie tic
 
 ---
 
-##  Features
+## 📌 Features
+
+### 👨‍💼 Admin
 
 - Admin Login
-- Admin can create new admin
-- New customer sign Up
+- Create new Admin accounts
+- Add movies and show details
+- Manage movie listings
+
+### 👤 Customer
+
+- New Customer Sign Up
 - Existing Customer Login
 - Login Validation
-- View available movies  
-- Book tickets  
-- Cancel tickets  
-- Display booking details  
-- Database connectivity using JDBC  
-- Admin can add movies & shows Details
-- User can view Available movies & shows details
+- View available movies & show timings
+- Book tickets
+- Cancel tickets
+- View booking details
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- JDBC
+- MySQL
+
+---
+
+## ⚙️ How It Works
+
+- The system runs through a **console interface**
+- Admin logs in using credentials and manages movies & shows
+- Customers can:
+  - Register (Sign Up)
+  - Login using existing credentials
+  - View available movies and timings
+  - Book or cancel tickets
+- Application connects to **MySQL database using JDBC**
+- Performs **CRUD operations** (Create, Read, Update, Delete)
 
 ---
 
