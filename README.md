@@ -54,21 +54,6 @@ A console-based application developed using Java and JDBC for managing movie tic
 - MySQL  
 
 ---
-## 🗃️ Database Tables
-
-All database tables are available in the SQL file:
-
-📂 `movieticket.sql`
-
-### ▶️ How to Import
-
-1. Open MySQL
-2. Run the SQL file:
-```bash
-source movieticket.sql;
-
----
-
 ##  How It Works
 
 - Admin & User interacts via console  
@@ -99,12 +84,27 @@ Email/SMS ticket confirmation
 
 ---
 
+## 🗃️ Database Tables
+
+All database tables are available in the SQL file:
+
+📂 `movieticket.sql`
+
+### ▶️ How to Import
+
+1. Open MySQL
+2. Run the SQL file:
+```bash
+source movieticket.sql;
+
+---
+
+
 ## 👩‍💻 Author
 
 # Mohanapriya Sivalingam
 
 ---
-
 ## ▶️ How to Run
 
 1. Compile:
